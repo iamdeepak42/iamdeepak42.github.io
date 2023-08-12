@@ -9,18 +9,29 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>5230 S M L King Jr Pkwy</p>
+    <p>Beaumount, TX 77705</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello, I'm Deepak Shrestha.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+##### 🎓 Education
+Studying Computer Science at Lamar University. Skilled in Computer Vision, Data Science, and Software Engineering.
+
+##### 🔍 Research Experience
+At Lamar University, in partnership with Texas A&M Agrilife Research, I took on a computer vision project. I led the creation of a VGGNet-based CNN model, achieving a notable 93% accuracy in rice plant identification. This work is particularly aimed at benefiting precision agriculture.
+
+##### 🖥️ Software Engineering
+Before my research, I was a Software Engineer at Parsedom in Kathmandu. There, I architected and implemented a robust data extraction framework using Python and NodeJS, successfully managing data from over 200 distinct sources.
+
+##### 🚀 What I'm Seeking
+As I look ahead to January 2024, I'm excited to explore opportunities in Machine Learning, Data Science, and Software Engineering. I'm eager to bring my blend of academic knowledge and hands-on experience to a dynamic team.
+
+##### 🔗 Let's Connect
+To learn more about my projects and experiences, please visit my [LinkedIn](https://www.linkedin.com/in/iamdeepak42) and [GitHub](https://github.com/iamdeepak42).

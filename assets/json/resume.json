@@ -1,77 +1,174 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "name": "Deepak Shrestha",
+      "image": "",
+      "email": "dshrestha4@lamar.edu",
+      "phone": "409-454-1698",
+      "url": "https://iamdeepak42.github.io",
+      "summary": "Computer Science graduate with a passion for innovative solutions in Computer Vision, Data Science, and Software Engineering.",
+      "location": {
+          "address": "",
+          "postalCode": "",
+          "city": "",
+          "countryCode": "",
+          "region": ""
+      },
+      "profiles": [
+          {
+              "network": "LinkedIn",
+              "username": "iamdeepak42",
+              "url": "https://linkedin.com/in/iamdeepak42"
+          },
+          {
+              "network": "GitHub",
+              "username": "iamdeepak42",
+              "url": "https://github.com/iamdeepak42"
+          }
+      ]
   },
   "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
+      {
+          "name": "Lamar University partnered with Texas A&M Agrilife Research",
+          "position": "Graduate Research Assistant",
+          "url": "",
+          "startDate": "2023-01-01",
+          "endDate": "Present",
+          "summary": "Collaborated on a computer vision project for automated rice plant counting and rice plot segmentation. Developed a VGGNet-based CNN model, achieving 93% accuracy.",
+          "highlights": []
+      },
+      {
+          "name": "Parsedom",
+          "position": "Software Engineer",
+          "url": "",
+          "startDate": "2020-01-01",
+          "endDate": "2021-12-31",
+          "summary": "Designed a data extraction framework using Python and NodeJS. Analyzed and visualized data for 50+ clients using pandas and seaborn.",
+          "highlights": [
+              "Engineered Flask-based RESTful APIs"
+          ]
+      },
+      {
+          "name": "Deerwalk Inc.",
+          "position": "Data Analyst",
+          "url": "",
+          "startDate": "2019-06-01",
+          "endDate": "2019-12-31",
+          "summary": "Performed detailed analysis of Healthcare Effectiveness Data and Information Set (HEDIS) measures. Collaborated with clients on managing data intake.",
+          "highlights": [
+              "Leveraged SQL for data analysis and mining"
+          ]
+      }
   ],
   "volunteer": [],
   "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
+      {
+          "institution": "Lamar University",
+          "url": "",
+          "area": "Computer Science",
+          "studyType": "Master of Science",
+          "startDate": "2022-01-01",
+          "endDate": "2023-12-31",
+          "score": "",
+          "courses": [
+              "Computer Vision",
+              "Data Science and Big Data Analysis",
+              "Statistical Inference",
+              "Analysis of Algorithms",
+              "Cloud Computing",
+              "Database Design",
+              "Software Engineering"
+          ]
+      }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+      {
+          "name": "Python"
+      },
+      {
+          "name": "PyTorch"
+      },
+      {
+          "name": "CNN"
+      },
+      {
+          "name": "openCV"
+      },
+      {
+          "name": "Flask"
+      },
+      {
+          "name": "SQL"
+      },
+      {
+          "name": "Pandas"
+      },
+      {
+          "name": "Seaborn"
+      },
+      {
+          "name": "NodeJS"
+      },
+      {
+          "name": "Matlab"
+      },
+      {
+          "name": "Autoencoder"
+      },
+      {
+          "name": "NLP"
+      },
+      {
+          "name": "Scikit-learn"
+      }
+  ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
+      {
+          "language": "Nepali",
+          "fluency": "Native speaker"
+      },
+      {
+          "language": "English",
+          "fluency": "Fluent"
+      }
   ],
   "interests": [],
   "references": [],
-  "projects": []
+  "projects": [
+      {
+          "name": "Automated Rice Seedling Counting",
+          "description": "Developed a deep learning model for precise rice seedling counting from drone imagery.",
+          "technologies": [
+              "Pytorch",
+              "CNN",
+              "openCV",
+              "scipy",
+              "matplotlib"
+          ]
+      },
+      {
+          "name": "Image-Based PM2.5 Pollution Analysis",
+          "description": "Developed an image-based method for PM2.5 concentration estimation using Matlab, Autoencoder, and Image Processing.",
+          "technologies": [
+              "Matlab",
+              "Autoencoder",
+              "Image Processing"
+          ]
+      },
+      {
+          "name": "Disaster Response Pipeline",
+          "description": "Developed a web application utilizing NLP techniques to classify emergency messages.",
+          "technologies": [
+              "Python",
+              "NLP",
+              "Flask",
+              "scikit-learn",
+              "nltk",
+              "pandas",
+              "sqlite"
+          ]
+      }
+  ]
 }
